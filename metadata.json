@@ -1,0 +1,6 @@
+{
+  "name": "AI Shrimp Counter - Đếm Tôm Thông Minh Bằng Giọng Nói",
+  "description": "Phần mềm quản lý và đếm tôm thông minh bằng giọng nói thời gian thực sử dụng Gemini 3.8 Flash và cung cấp mã nguồn Python Streamlit (app.py) hoàn chỉnh.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
